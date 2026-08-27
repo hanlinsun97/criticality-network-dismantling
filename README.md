@@ -2,7 +2,7 @@
 
 This repository contains the code for
 
-- [Authors], Criticality and universality in network dismantling, [Journal citation].
+- Lorenzo Cirigliano, Claudio Castellano, Minsuk Kim, Filippo Radicchi, Hanlin Sun, Criticality and universality in network dismantling, [Journal citation].
 - [Preprint (arXiv)]
 
 - BibTeX entry:
