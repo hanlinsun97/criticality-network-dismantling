@@ -1,8 +1,8 @@
-# [Paper Title]
+# Criticality and universality in network dismantling
 
 This repository contains the code for
 
-- [Authors], [Paper title], [Journal citation].
+- [Authors], Criticality and universality in network dismantling, [Journal citation].
 - [Preprint (arXiv)]
 
 - BibTeX entry:
@@ -56,3 +56,7 @@ fraction of the edges removed, `GC` is the fraction of nodes in the giant compon
 `sequence.txt` contains the complete edge-removal order as
 `step edge_id u v`, where `edge_id` identifies the edge in
 the original network, and `u v` are its endpoints.
+
+# License
+
+This code is released under the MIT License. See [LICENSE](LICENSE).
